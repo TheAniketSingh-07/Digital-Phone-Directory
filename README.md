@@ -5,11 +5,11 @@
 Welcome to the official repository of **[Smart Contact Book]**, a robust, GUI-based application. This project was developed as a team effort to provide an intuitive interface for efficient data handling, utilizing advanced data structures for optimal performance.
 
 <p align="center">
-  <img src="Screenshot 2026-07-10 224532.png" width="600">
+  <img src="Screenshot 2026-07-10 224532.png" width="650">
 </p>
 
 <p align="center">
-  <img src="Screenshot 2026-07-10 224734.png" width="600">
+  <img src="Screenshot 2026-07-10 224734.png" width="650">
 </p>
 ---
 
