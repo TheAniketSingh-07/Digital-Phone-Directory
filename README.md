@@ -2,10 +2,10 @@
 
 
 <p align="center">
-  <img src="Screenshot 2026-07-10 224532.png" width="300">
+  <img src="Screenshot 2026-07-10 224532.png" width="500">
 </p>
 <p align="center">
-  <img src="Screenshot 2026-07-10 224734.png" width="300">
+  <img src="Screenshot 2026-07-10 224734.png" width="500">
 </p>
 
 ### 🚀 Overview
