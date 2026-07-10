@@ -4,7 +4,10 @@
 
 # [Digital Phone Directory / Smart Contact Book]
 
-![Project Banner or Logo Placeholder]([Link to your project logo/screenshot])
+
+<p align="center">
+  <img src="images/dashboard.png" width="600">
+</p>
 
 ### 🚀 Overview
 
