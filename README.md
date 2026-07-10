@@ -1,8 +1,11 @@
-# [Digital Phone Directory / Smart Contact Book]
+#   Digital Phone Directory / Smart Contact Book
 
 
 <p align="center">
-  <img src="Screenshot 2026-07-10 224532.png" width="600">
+  <img src="Screenshot 2026-07-10 224532.png" width="300">
+</p>
+<p align="center">
+  <img src="Screenshot 2026-07-10 224734.png" width="300">
 </p>
 
 ### 🚀 Overview
